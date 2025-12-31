@@ -8,10 +8,6 @@ A Flutter weather application that shows real-time weather information for a sea
 - Display current temperature, humidity, and conditions
 - Simple and responsive UI
 
-## Demo
-Screenshots / Video:
-(Add screenshot images here or a link to an unlisted YouTube / Drive video)
-
 ## Tech Stack
 - Flutter & Dart
 - REST API (e.g., OpenWeatherMap / WeatherAPI)
